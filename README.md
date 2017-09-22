@@ -1,2 +1,1 @@
-# -
-根据财报原理
+# - choose stocks through CSI 300 Index
