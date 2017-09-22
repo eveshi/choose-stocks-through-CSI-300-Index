@@ -1,1 +1,3 @@
-# - choose stocks through CSI 300 Index
+# - 
+
+Choose stocks through CSI 300 Index
