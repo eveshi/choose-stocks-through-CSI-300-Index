@@ -243,3 +243,4 @@ class caipaoPa(object):
 caipaoPa().RoE()
 caipaoPa().price()
 caipaoPa().merge()
+print("123")
